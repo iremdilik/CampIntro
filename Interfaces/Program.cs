@@ -25,7 +25,7 @@ namespace Interfaces
                 customerDal.Add();
             }
 
-     
+
 
 
             Console.ReadLine();
