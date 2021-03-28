@@ -39,7 +39,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "Interface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{C78874F4-30C8-47BA-B4ED-F0F304284B12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{C84D1AD4-7B95-40C1-B65F-3DBDB7169777}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{C84D1AD4-7B95-40C1-B65F-3DBDB7169777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{CB494D23-DC55-415E-850D-F0954CC5E4A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{C84D1AD4-7B95-40C1-B65F-3DBDB7169777}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C84D1AD4-7B95-40C1-B65F-3DBDB7169777}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C84D1AD4-7B95-40C1-B65F-3DBDB7169777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB494D23-DC55-415E-850D-F0954CC5E4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB494D23-DC55-415E-850D-F0954CC5E4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB494D23-DC55-415E-850D-F0954CC5E4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB494D23-DC55-415E-850D-F0954CC5E4A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
